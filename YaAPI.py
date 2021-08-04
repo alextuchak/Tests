@@ -1,6 +1,6 @@
 import requests
 
-yad_token = 'AQAAAAAz3kTiAADLW4hKEMZnP0khv6FXKxCYVJ4'
+yad_token = ''
 
 
 class YadUpload:
